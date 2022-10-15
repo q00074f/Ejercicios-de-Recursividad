@@ -25,5 +25,5 @@ public class Ejercicio1 {
     //llamada recursiva
     else
         return n+sum(n-1);
-}
+    }
 }
